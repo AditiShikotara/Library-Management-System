@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.library.LibraryTest" time="0.454" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="jpda.address" value="56236"/>
+    <property name="java.specification.version" value="20"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem\target\test-classes;D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem\target\classes;C:\Users\aditi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\aditi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\aditi\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\aditi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\aditi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\aditi\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="forkMode" value="once"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="sun.java.command" value="C:\Users\aditi\AppData\Local\Temp\surefire963031722663371338\surefirebooter4180832763595065941.jar C:\Users\aditi\AppData\Local\Temp\surefire963031722663371338 2024-09-01T09-45-26_531-jvmRun1 surefire17698715734090114390tmp surefire_016183759507007465029tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.library.LibraryTest"/>
+    <property name="surefire.test.class.path" value="D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem\target\test-classes;D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem\target\classes;C:\Users\aditi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\aditi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\aditi\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\aditi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\aditi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\aditi\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\aditi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-03-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\aditi\AppData\Local\Temp\surefire963031722663371338\surefirebooter4180832763595065941.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="20+36-2344"/>
+    <property name="user.name" value="aditi"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="jpda.listen" value="true"/>
+    <property name="maven.ext.class.path" value="C:\Users\aditi\.vscode\extensions\oracle.oracle-java-22.1.1\nbcode\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\aditi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\aditi\AppData\Local\Temp\"/>
+    <property name="java.version" value="20"/>
+    <property name="user.dir" value="D:\AADDIITTII\OneDrive\Desktop\TASK2\LibraryManagementSystem"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\aditi\OneDrive\Desktop\Scripts\;C:\Users\aditi\OneDrive\Desktop\;C:\Users\aditi\OneDrive\Desktop\computer languages\python\Scripts\;C:\Users\aditi\OneDrive\Desktop\computer languages\python\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\aditi\OneDrive\Desktop\computer languages\python;C:\Program Files (x86)\nodejs\;D:\OpenSSL-Win64\bin;D:\Program Files\Git\bin;C:\Program Files\Java\jdk-20\bin;C:\hadoop-3.4.0\bin;C:\hadoop-3.4.0\sbin;C:\MinGW\bin;D:\Program Files\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\aditi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\aditi\AppData\Local\Programs\Python\Python312\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\aditi\AppData\Local\Microsoft\WindowsApps;C:\Users\aditi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\IntelliJ IDEA Community Edition 2023.1\bin;;C:\Program Files\Java\jdk-20\bin;D:\MinGW\bin;C:\Users\aditi\OneDrive\Desktop\computer languages\python;C:\Users\aditi\OneDrive\Desktop\PyCharm Community Edition 2023.2.1\bin;;C:\Users\aditi\AppData\Roaming\npm;C:\Users\aditi\AppData\Local\GitHubDesktop\bin;D:\jdk 8\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="20+36-2344"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="64.0"/>
+    <property name="maven.surefire.debug" value="-agentlib:jdwp=transport=dt_socket,server=n,address=56236"/>
+  </properties>
+  <testcase name="testAddBook" classname="com.library.LibraryTest" time="0.316"/>
+  <testcase name="testBorrowBookNotAvailable" classname="com.library.LibraryTest" time="0.047"/>
+  <testcase name="testReturnBook" classname="com.library.LibraryTest" time="0.01"/>
+  <testcase name="testBorrowBook" classname="com.library.LibraryTest" time="0.015"/>
+</testsuite>
